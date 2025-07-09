@@ -1,0 +1,6 @@
+{
+  "name": "Song Weaver",
+  "description": "A node-based visual editor by BioSpark Studios to craft detailed prompts for AI music generators. Build song structures, define musical styles, write lyrics, and generate the perfect prompt.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
